@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=79,70,229,139,92,246,167,139,250&height=180&section=header&text=Rohan%20Jha&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" alt="Wave Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=79,70,229,139,92,246,167,139,250&height=190&section=header&text=Rohan%20Jha&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" alt="Wave Header" />
 </div>
 
 <div align="center">
@@ -52,9 +52,22 @@ With rigorous experience across modern technologies, software patterns, and devo
 
 ### 💻 Tech Matrix
 - **Languages:** JavaScript, TypeScript, Python, Java, C++
-- **Frontend:** React.js, Redux Toolkit, Next.js, HTML5, CSS3, Tailwind CSS, DaisyUI
+- **Frontend Frameworks:** React.js, Redux Toolkit, Next.js, HTML5, CSS3, Tailwind CSS, DaisyUI
 - **Backend & Databases:** Node.js, Express.js, MongoDB, Mongoose, MySQL, PostgreSQL, Firebase
 - **Cloud & DevOps:** AWS, Google Cloud, Docker, Kubernetes, Git, GitHub Actions, Linux
+- **Testing & Tools:** Postman, Jest, Cypress, Vite, ESLint
+
+<details>
+<summary><b>🖥️ Developer Environment & Setup Details</b></summary>
+<br/>
+
+- **Operating System:** Windows 11 Pro / Arch Linux (Dual Boot)
+- **Primary Shell:** PowerShell 7 (Windows) / Zsh + Oh My Zsh (Linux)
+- **Editor & IDEs:** VS Code, WebStorm, IntelliJ IDEA
+- **Terminal:** Windows Terminal (Custom Dracula Theme)
+- **Fonts:** JetBrains Mono / Cascadia Code
+
+</details>
 
 ---
 
@@ -116,6 +129,25 @@ A FAANG-style marketplace for users to list, discover, and rent premium accommod
 - **Cloud Media Pipeline:** Integrated Cloudinary storage API for dynamic multi-image upload handling.
 - **Interactive Map Systems:** Deployed map integrations rendering coordinate geocoding for property listings.
 - **Rating Engine:** Designed nested comment/review schema relationships in MongoDB with custom score aggregation.
+
+</details>
+
+<details>
+<summary><b>💼 Premium Developer Portfolio</b></summary>
+<br/>
+
+### Sleek Glassmorphic Portfolio Showcase
+
+A state-of-the-art developer portfolio with custom HSL dark mode, floating particles, smooth scroll, and interactive project cards.
+
+| Metric | Details |
+| :--- | :--- |
+| **Stack** | React.js, TailwindCSS, Framer Motion, EmailJS |
+| **Scale** | Production-ready personal branding site. |
+| **Performance** | 99+ Google Lighthouse performance index, sub-50ms page transitions. |
+| **Security** | Sanitized contact forms, secure API keys. |
+| **Impact** | Enhances recruiting pipelines and showcases project timelines. |
+| **Repository** | [rohan-jha-portfolio](https://github.com/RohanJha03/rohan-jha-portfolio) |
 
 </details>
 
